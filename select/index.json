@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "『 ポシェット 』/ feat. 可不",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-21T16:54:48.189495Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポシェット",
+      "artist": "MIMI, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_ポシェット_MIMI,_可不.txt"
+    }
+  ]
+}
